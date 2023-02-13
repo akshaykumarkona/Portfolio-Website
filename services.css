@@ -1,0 +1,87 @@
+*{margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    max-height: 100%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;    
+}
+body{
+background: linear-gradient(to bottom,#553739,#955E42);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height:100%;
+width: 100%;
+}    
+nav{
+text-align: center;
+background-color:#503B31;
+}
+nav ul {
+display:inline-flex;
+font-size: 30px;
+text-align: center;
+text-decoration: none;
+list-style: none;
+}
+nav ul li{
+color: rgb(255, 239, 241);
+padding:15px;
+margin: 15px;
+width: 200px;
+max-height: 80px;
+}
+nav ul li a{color:rgb(255, 253, 253);}
+li :hover{
+color: #FF7033;
+/* background-color:#856a5e; */
+}    
+h1{
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+h1 span{
+    color: rgb(246, 163, 10);
+}
+.serve1{
+    font-size: 25px;
+    background: #503B31;
+    max-width: 500px;
+    padding: 60px 95px;
+    position: relative;
+    left: 100px;
+    top: 300px;
+
+}
+.h31{position:relative;
+    width: 400px;
+    padding-bottom: 10px;}
+.serve2{
+    font-size: 25px;
+    background: #503B31;
+    max-width: 500px;
+    padding: 60px 95px;
+    position: relative;
+    left: 700px;
+    bottom: 100px;
+
+}
+.h32{position:relative;
+    width: 400px;
+    padding-bottom: 10px;}
+.serve3{
+    font-size: 25px;
+    background: #503B31;
+    max-width: 500px;
+    padding: 60px 95px;
+    position: relative;
+    left: 1300px;
+    bottom: 500px;
+}
+.h33{position:relative;
+    width: 400px;
+    padding-bottom: 10px;}
